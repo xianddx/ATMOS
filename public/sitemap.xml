@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://xianddx.com/categories/</loc>
-  </url><url>
-    <loc>https://xianddx.com/contact/</loc>
-  </url><url>
-    <loc>https://xianddx.com/mission/</loc>
-  </url><url>
-    <loc>https://xianddx.com/news/</loc>
-  </url><url>
-    <loc>https://xianddx.com/</loc>
-  </url><url>
-    <loc>https://xianddx.com/sponsors/</loc>
-  </url><url>
-    <loc>https://xianddx.com/tags/</loc>
-  </url><url>
-    <loc>https://xianddx.com/team/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://xianddx.com/en/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://xianddx.com/zh/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>
